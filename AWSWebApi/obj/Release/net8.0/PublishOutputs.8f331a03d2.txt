@@ -1,0 +1,11 @@
+D:\Sagar\VS2022\AmazonEC2WebApi\AWSWebApi\AWSWebApi\obj\Release\net8.0\PubTmp\Out\AWSWebApi.exe
+D:\Sagar\VS2022\AmazonEC2WebApi\AWSWebApi\AWSWebApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Sagar\VS2022\AmazonEC2WebApi\AWSWebApi\AWSWebApi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Sagar\VS2022\AmazonEC2WebApi\AWSWebApi\AWSWebApi\obj\Release\net8.0\PubTmp\Out\AWSWebApi.dll
+D:\Sagar\VS2022\AmazonEC2WebApi\AWSWebApi\AWSWebApi\obj\Release\net8.0\PubTmp\Out\AWSWebApi.deps.json
+D:\Sagar\VS2022\AmazonEC2WebApi\AWSWebApi\AWSWebApi\obj\Release\net8.0\PubTmp\Out\AWSWebApi.runtimeconfig.json
+D:\Sagar\VS2022\AmazonEC2WebApi\AWSWebApi\AWSWebApi\obj\Release\net8.0\PubTmp\Out\AWSWebApi.pdb
+D:\Sagar\VS2022\AmazonEC2WebApi\AWSWebApi\AWSWebApi\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Sagar\VS2022\AmazonEC2WebApi\AWSWebApi\AWSWebApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Sagar\VS2022\AmazonEC2WebApi\AWSWebApi\AWSWebApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Sagar\VS2022\AmazonEC2WebApi\AWSWebApi\AWSWebApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
