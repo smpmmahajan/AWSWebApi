@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AWSWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4650673ed1fc567c77272524ae54968aec5e86de")]
 [assembly: System.Reflection.AssemblyProductAttribute("AWSWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AWSWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

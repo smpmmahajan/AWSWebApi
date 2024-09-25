@@ -30,3 +30,4 @@ D:\Sagar\VS2022\AmazonEC2WebApi\AWSWebApi\AWSWebApi\obj\Debug\net8.0\refint\AWSW
 D:\Sagar\VS2022\AmazonEC2WebApi\AWSWebApi\AWSWebApi\obj\Debug\net8.0\AWSWebApi.pdb
 D:\Sagar\VS2022\AmazonEC2WebApi\AWSWebApi\AWSWebApi\obj\Debug\net8.0\AWSWebApi.genruntimeconfig.cache
 D:\Sagar\VS2022\AmazonEC2WebApi\AWSWebApi\AWSWebApi\obj\Debug\net8.0\ref\AWSWebApi.dll
+D:\Sagar\VS2022\AmazonEC2WebApi\AWSWebApi\AWSWebApi\obj\Debug\net8.0\AWSWebApi.sourcelink.json
